@@ -1,0 +1,13 @@
+*{
+    scroll-behavior: smooth;
+    /* width: 1920px; */
+    
+}
+body {
+    width: 1920px;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+/* ===================== Media Quries================== */

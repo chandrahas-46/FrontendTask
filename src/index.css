@@ -1,0 +1,10 @@
+body {
+  background: #E2E4F0;
+  scroll-behavior: smooth;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
